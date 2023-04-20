@@ -1,0 +1,43 @@
+.Layout{
+  width: 100%;
+  height: 100vh; 
+}
+
+.Header{
+  display: flex;
+  background-color: aqua !important;
+}
+
+.Content{
+  width: 100%;
+  height: calc(100% - 130px);
+  background: linear-gradient( to bottom left, rgb(32, 141, 126), rgb(172, 255, 200));
+}
+
+.login-form{
+  text-align: center;
+  padding: 40px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 10px;
+  background-color: white;
+}
+
+.input{
+  border: 1px solid rgb(196, 194, 194) !important;
+  border-radius: 15px;
+  background-color: white !important;}
+
+.login-button{
+  background-color: rgb(49, 175, 145);
+  width: 100%; 
+  text-align: center;
+}
+
+.image{
+  margin-bottom: 10px;
+}
+
+.prefix{
+  color: rgb(16, 109, 97);
+}
+

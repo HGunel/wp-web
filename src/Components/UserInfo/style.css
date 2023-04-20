@@ -1,0 +1,9 @@
+.UserInfo{
+    height: 64px;
+    border-bottom: 1px solid gray;
+    padding: 3px;
+}
+
+.UserInfo h5{
+    margin-top: 0;
+}
